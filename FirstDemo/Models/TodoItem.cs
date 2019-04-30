@@ -7,6 +7,8 @@ namespace FirstDemo.Models
 {
     public class TodoItem
     {
+
+        // 唯一标识
         public long Id { get; set; }
         /// <summary>
         /// 姓名
